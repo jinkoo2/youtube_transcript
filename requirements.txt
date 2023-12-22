@@ -2,3 +2,5 @@ pytube
 moviepy
 pydub
 deepspeech
+wave
+numpy
